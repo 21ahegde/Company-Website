@@ -1,0 +1,11 @@
+
+body {
+    padding: 50px;
+    margin: 100px;
+    background-color: rgb(161, 159, 122)
+
+}
+
+.navbar-nav {
+justify-content: center
+}
